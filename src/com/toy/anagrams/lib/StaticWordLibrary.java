@@ -49,16 +49,16 @@ final class StaticWordLibrary extends WordLibrary {
         "flaske"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
-        "eflska",
-        "dnav",
-        "ripap",
         "ordb",
-        "kolotivmo",
+        "tosl",
+        "eltav",
+        "rjve",
         "ols",
         "ysk",
-        "rjve",
-        "eltav",
-        "tosl",
+        "kolotivmo",
+        "ripap",
+        "dnav",
+        "eflska",
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
